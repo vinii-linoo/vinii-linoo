@@ -29,6 +29,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vinii-linoo&locale=pt-br&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
 <img src="https://raw.githubusercontent.com/vinii-linoo/vinii-linoo/output/snake.svg" alt="Snake animation" />
 
 ###
